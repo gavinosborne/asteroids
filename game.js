@@ -4,7 +4,7 @@
 //
 
 KEY_CODES = {
-  32: 'space',
+  16: 'space',
   37: 'left',
   32: 'space',
   65: 'left',
@@ -16,7 +16,7 @@ KEY_CODES = {
   72: 'h',
   77: 'm',
   80: 'p',
-  88: 'w'
+  
 }
 
 KEY_STATUS = { keyDown:false };
