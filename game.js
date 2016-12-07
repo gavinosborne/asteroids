@@ -6,8 +6,10 @@
 KEY_CODES = {
   16: 'space',
   37: 'left',
+  32: 'space',
+  65: 'left',
   87: 'up',
-  39: 'right',
+  68: 'right',
   40: 'down',
   70: 'f',
   71: 'g',
